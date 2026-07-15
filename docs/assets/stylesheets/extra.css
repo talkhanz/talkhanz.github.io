@@ -1,0 +1,16 @@
+/* Make embedded Plotly charts responsive and consistent in width. */
+.plotly-graph-div {
+  width: 100% !important;
+  margin: 1.5rem 0;
+}
+
+/* Give static plot images a subtle frame that adapts to light/dark. */
+.md-typeset img.plot {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+}
+
+/* Slightly wider content column for data-heavy posts. */
+.md-grid {
+  max-width: 62rem;
+}
