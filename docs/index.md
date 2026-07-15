@@ -4,9 +4,9 @@ hide:
   - toc
 ---
 
-# ML Research Notes
+# Personal Research Notes
 
-Welcome. This is a blog about **AI and machine learning research** — paper
+Welcome. This is a personal blog about reseach
 walkthroughs, experiments, and interactive visualizations.
 
 [Read the blog :material-arrow-right:](blog/index.md){ .md-button .md-button--primary }
@@ -16,7 +16,7 @@ walkthroughs, experiments, and interactive visualizations.
 
 ## What you'll find here
 
-- **Paper deep-dives** — notes and intuition on recent AI/ML work.
+- **Paper deep-dives** — notes and intuition on recent research work.
 - **Experiments** — small studies with reproducible code.
 - **Interactive visualizations** — charts you can hover, zoom, and pan, generated
   from Python notebooks and embedded directly in posts.

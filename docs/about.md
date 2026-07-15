@@ -1,7 +1,6 @@
 # About
 
-Hi — I'm **Your Name**, and this is where I write about AI and machine learning
-research.
+Hi — I'm Talha, and this is my personal blog.
 
 Replace this page with a short bio: your research interests, affiliation, and
 links.
