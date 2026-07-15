@@ -1,12 +1,12 @@
-site_name: ML Research Notes
-site_description: A blog on AI and machine learning research.
-site_author: Your Name
+site_name:  Personal Blog
+site_description: A personal blog that may include commentary on research
+site_author: Talha
 # IMPORTANT: replace YOUR_USERNAME everywhere below with your GitHub username.
 # This is configured as a USER SITE: the repo must be named YOUR_USERNAME.github.io
 # and the site is served at the domain root (no subpath).
-site_url: https://YOUR_USERNAME.github.io/
-repo_url: https://github.com/YOUR_USERNAME/YOUR_USERNAME.github.io
-repo_name: YOUR_USERNAME/YOUR_USERNAME.github.io
+site_url: https://talkhanz.github.io/
+repo_url: https://github.com/talkhanz/talkhanz.github.io
+repo_name: talkhanz/talkhanz.github.io
 
 theme:
   name: material
